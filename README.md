@@ -8,4 +8,4 @@ library("vegawidget")
 spec_mtcars
 ```
 
-![](man/figures/README-unnamed-chunk-2-1.png)<!-- -->
+![](man/figures/README-unnamed-chunk-2-1.svg)<!-- -->
